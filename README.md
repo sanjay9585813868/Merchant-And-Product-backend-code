@@ -1,0 +1,1 @@
+The E-commerce Platform backend, built with Hibernate, ensures secure authentication and seamless CRUD operations. It efficiently manages database interactions, optimizing performance and data integrity. The system supports product listings, order processing, and user management with scalability in mind
